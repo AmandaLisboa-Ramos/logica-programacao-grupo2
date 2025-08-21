@@ -11,7 +11,7 @@ Cada questão foi desenvolvida em uma branch separada (`questaoX`) e depois inte
 ## Participantes do grupo e respectivas questões
 
 - **Jéssica**: Questões 1, 2, 5, 10  
-- **Jorge**: Questões 3, 9, 12, 14  
+- **Jorge**: Questões 3, 9, 12, 14,21  
 - **Bruno Barbosa**: Questões 4, 6, 7, 17  
 - **Bruno Nascimento**: Questões 11, 13, 16, 19  
 - **Amanda Lisboa**: Questões 8, 15, 18, 20  
